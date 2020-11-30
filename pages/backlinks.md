@@ -1,6 +1,5 @@
 ---
 title: Backlinks
-tags: features, 
+tags: [[features]]
 ---
-
 ## In [[Logseq]] you can create two-way links or in other words [[backlinks]]
