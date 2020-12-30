@@ -1,5 +1,6 @@
 ---
 title: javascript
+alias: JS
 ---
 
 ##
