@@ -1,5 +1,5 @@
 ---
 title: Death
-type: [[Character]]
+tags: [[Character]]
 ---
 ##
