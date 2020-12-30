@@ -1,0 +1,6 @@
+---
+title: Rincewind
+type: [[Character]]
+---
+
+##
