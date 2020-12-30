@@ -5,4 +5,5 @@ title: test alias
 ##
 This redirects: [[btc]]
 ##
-This doesn't
+This doesn't: [[BTC]]
+##
