@@ -1,4 +1,4 @@
 ---
 title: chilli crab
-alias: crab
+alias: crab, CRAB
 ---
