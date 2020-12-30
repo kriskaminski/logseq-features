@@ -1,4 +1,4 @@
 ---
 title: chilli crab
-alias: crab, CRAB, BARC
+alias: crab, CRAB, BARC, DUCK
 ---
