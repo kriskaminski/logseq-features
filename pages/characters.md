@@ -3,5 +3,3 @@ title: Characters
 ---
 
 ##
-{{query [[Character]]}}
-##
