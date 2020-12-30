@@ -2,5 +2,4 @@
 title: Death
 type: [[Character]]
 ---
-
 ##
