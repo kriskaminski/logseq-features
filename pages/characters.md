@@ -3,4 +3,4 @@ title: Characters
 ---
 
 ##
-{{query character}}
+{{query [[character]]}}
