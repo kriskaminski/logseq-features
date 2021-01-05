@@ -1,6 +1,6 @@
 ---
 title: Algo
-tags: [[ogla]]
+tags: [[ogla]], [[person]] 
 type: person
 related to: [[person]]
 ---
