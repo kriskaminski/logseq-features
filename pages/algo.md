@@ -1,7 +1,7 @@
 ---
 title: Algo
 tags: [[ogla]]
-type: [[person]]
+type: person
 ---
 ## 
 
